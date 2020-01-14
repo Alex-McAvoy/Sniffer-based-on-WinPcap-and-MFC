@@ -1,18 +1,7 @@
 # 基于WinPcap和MFC开发的Sniffer
-代码复现
 
-参考文档：
+本项目是一个代码复现项目，旨在学习如何利用 WinPcap 和 MFC 编写 Sniffer
 
-1）https://www.write-bug.com/article/2135.html
+详细步骤参见：https://alex-mcavoy.github.io/mfc/ck5dqn8uv0003kgc2d0lrrwhw.html
 
-2）https://blog.csdn.net/litingli/article/details/5950962
-
-3）https://blog.csdn.net/litingli/article/details/6098654
-
-4）https://blog.csdn.net/litingli/article/details/7315699
-
-5）https://blog.csdn.net/litingli/article/details/7315789
-
-6）https://blog.csdn.net/litingli/article/details/7315914
-
-7）https://blog.csdn.net/litingli/article/details/7316173
+参考文档：https://blog.csdn.net/litingli/article/details/5950962
